@@ -1,0 +1,2 @@
+# AI-Data-Center-Energy-Consumption-Prediction-using-Machine-Learning
+This project predicts the energy consumption of AI data centers using Machine Learning. As AI workloads continue to grow, data centers consume increasing amounts of electricity and cooling resources. This project analyzes operational factors and predicts energy consumption to support more efficient and sustainable AI infrastructure.
