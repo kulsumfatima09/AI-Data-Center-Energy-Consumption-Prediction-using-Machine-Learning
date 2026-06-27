@@ -57,7 +57,7 @@ The dataset includes:
 
 ---
 
-## 🧠 Feature Engineering
+## Feature Engineering
 
 Additional features were created to improve prediction performance:
 
@@ -67,7 +67,7 @@ Additional features were created to improve prediction performance:
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
 | Metric   |      Score |
 | -------- | ---------: |
